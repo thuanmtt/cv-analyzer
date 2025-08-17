@@ -1,0 +1,32 @@
+
+JOHN DOE
+Software Engineer
+john.doe@email.com | +1-555-0123 | linkedin.com/in/johndoe
+
+SUMMARY
+Experienced software engineer with 5+ years in full-stack development. Passionate about creating scalable web applications using modern technologies.
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Technology, 2018
+
+EXPERIENCE
+Senior Software Engineer
+TechCorp (2020-2023)
+- Led development of microservices architecture
+- Managed team of 5 developers
+- Implemented CI/CD pipelines
+- Optimized database queries improving performance by 40%
+
+Software Developer
+StartupInc (2018-2020)
+- Developed REST APIs using Python and Django
+- Built responsive user interfaces with React
+- Participated in code reviews and technical planning
+
+SKILLS
+Programming: Python, JavaScript, Java, C++
+Frameworks: Django, React, Spring Boot, Express
+Databases: PostgreSQL, MongoDB, Redis
+Cloud: AWS, Docker, Kubernetes
+Tools: Git, Jenkins, Jira, VS Code
